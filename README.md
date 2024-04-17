@@ -1,6 +1,6 @@
 # Chapter 08 - Functions Programming Logic in C 💻
 
-.. Exercises from Fundamentals of Computer Programming [PT-BR] | C/C++ PASCAL JAVA
+30 Exercises from Fundamentals of Computer Programming [PT-BR] | C/C++ PASCAL JAVA
 
 ## content 🗂
 
